@@ -2,7 +2,7 @@
 name: Security vulnerablility
 about: Report a security vulnerablility in ScratchOS
 title: "[Security vulnerablility report]"
-labels: ''
+labels: Security vulnerablility
 assignees: ''
 
 ---
